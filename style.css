@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0%;
+    font-family: sans-serif;
+}
+
+#main{
+    height: 94vh;   
+    background-image: linear-gradient(to right, rgb(85, 122, 134), rgba(0, 0, 0, 0.493), rgb(85, 122, 134));
+}
+
+#mac{
+    padding-top: 1em;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+#heading{
+    padding-top: 4em;
+    padding-bottom: 1em;
+    color:white;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+#Utxt{
+    margin-left: 200px;
+}
+
+#txt{
+    padding: 5px;
+    border-radius: 2px;
+    outline-style: none;
+    border: none;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
+#footer{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 18px;
+    text-align: center;
+}
+
+#footTxt{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
