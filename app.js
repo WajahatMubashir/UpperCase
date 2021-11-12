@@ -1,10 +1,11 @@
+// JQUERY CODE
 $(function() { 
      $('input').keyup(function() { 
          this.value = this.value.toLocaleUpperCase(); 
      }); 
 }); 
 
-JAVASCRIPT CODE
+// JAVASCRIPT CODE
 // document.getElementById("txt").onkeyup = function () {
 			// 	myFunction();
 			// };
